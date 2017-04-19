@@ -106,15 +106,7 @@
         "drop-down13.jpg"
       ]
     ],
-    "megamenu_subtitle_header": [
-      "Shop",
-      "Discover",
-      "",
-      "Get",
-      "Marq`s",
-      "How to",
-      "Shop"
-    ],
+    "megamenu_subtitle_header": ["Shop", "Discover", "", "Get", "Marq`s", "How to", "Shop"],
     "enable_new": false,
     "display_fixtop_menu": false,
     "bg_cart_color_fixed_top": "#f02121",
@@ -1000,7 +992,9 @@
     "border_color_product_item": "#ff0000",
     "product_item_border": "true",
     "product_main_height": "500",
-    "content_for_index": []
+    "content_for_index": [
+
+    ]
   },
   "presets": {
     "Default": {
